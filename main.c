@@ -49,7 +49,7 @@ int main()
                 printf("\t\t Klasa 2 to %d PLN \n\n", temp2);
         }
 
-
+        printf("kocham cie");
         printf("Czy chcesz pracowac dalej? Wpisz t lub n: ");
         scanf(" %c", &wybor);
 
